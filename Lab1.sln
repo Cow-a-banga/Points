@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PointLib", "PointLib\PointLib.vbproj", "{E6AAF38C-E5C4-4329-97DE-97EB3F9924E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppForm", "AppForm\AppForm.csproj", "{09507AFB-943D-4D69-AFAD-6FF4575331A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6AAF38C-E5C4-4329-97DE-97EB3F9924E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6AAF38C-E5C4-4329-97DE-97EB3F9924E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6AAF38C-E5C4-4329-97DE-97EB3F9924E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6AAF38C-E5C4-4329-97DE-97EB3F9924E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09507AFB-943D-4D69-AFAD-6FF4575331A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09507AFB-943D-4D69-AFAD-6FF4575331A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09507AFB-943D-4D69-AFAD-6FF4575331A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09507AFB-943D-4D69-AFAD-6FF4575331A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

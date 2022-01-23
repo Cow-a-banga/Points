@@ -1,0 +1,16 @@
+C:\Users\chiru\RiderProjects\Lab1\AppForm\bin\Debug\AppForm.exe.config
+C:\Users\chiru\RiderProjects\Lab1\AppForm\bin\Debug\AppForm.exe
+C:\Users\chiru\RiderProjects\Lab1\AppForm\bin\Debug\AppForm.pdb
+C:\Users\chiru\RiderProjects\Lab1\AppForm\bin\Debug\PointLib.dll
+C:\Users\chiru\RiderProjects\Lab1\AppForm\bin\Debug\PointLib.pdb
+C:\Users\chiru\RiderProjects\Lab1\AppForm\bin\Debug\PointLib.xml
+C:\Users\chiru\RiderProjects\Lab1\AppForm\obj\Debug\AppForm.csproj.AssemblyReference.cache
+C:\Users\chiru\RiderProjects\Lab1\AppForm\obj\Debug\AppForm.Properties.Resources.resources
+C:\Users\chiru\RiderProjects\Lab1\AppForm\obj\Debug\AppForm.csproj.GenerateResource.cache
+C:\Users\chiru\RiderProjects\Lab1\AppForm\obj\Debug\AppForm.csproj.CoreCompileInputs.cache
+C:\Users\chiru\RiderProjects\Lab1\AppForm\obj\Debug\AppForm.csproj.CopyComplete
+C:\Users\chiru\RiderProjects\Lab1\AppForm\obj\Debug\AppForm.exe
+C:\Users\chiru\RiderProjects\Lab1\AppForm\obj\Debug\AppForm.pdb
+C:\Users\chiru\RiderProjects\Lab1\AppForm\obj\Debug\AppForm.MainForm.resources
+C:\Users\chiru\RiderProjects\Lab1\AppForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chiru\RiderProjects\Lab1\AppForm\bin\Debug\Newtonsoft.Json.xml
